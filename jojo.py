@@ -1,7 +1,7 @@
 import streamlit as st
 st.title('JOJO')
 st.image('joojo.png')
-st.title('Resumo básico de cada protagonista/vilão ')
+st.title('Biografia básica de cada protagonista/vilão ')
 tab1, tab2 = st.tabs(['protagonistas', 'vilões'])
 with tab1:
     tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs(['johnathan joestar', 'joseph joestar', 'jotaro kujo', 'josuke higashikata', 'giorno giovana', 'jolyne kujo', 'johnny joestar', 'gappy'])
@@ -20,3 +20,19 @@ with tab1:
 
 ### Jotaro é um delinquente que vive uma vida normal até que o velho inimigo da Família Joestar, DIO, retorna. Jotaro viaja para o Egito para salvar sua mãe e parar o Vampiro de uma vez por todas.'''
                     )
+    with tab6:
+        st.image('josuke.png')
+        st.markdown('''
+        ## Josuke Higashikata (東方 仗助, Higashikata Jōsuke; o Suke — 助 — em seu nome também pode ser pronunciado como "Jo") é o protagonista de Diamond is Unbreakable e o quarto JoJo da série série JoJo's Bizarre Adventure.
+
+## Josuke é um aluno do primeiro ano do ensino médio que mora na cidade de Morioh. Ele logo conhece Jotaro Kujo, que o informa que ele é filho ilegítimo de Joseph Joestar. Depois que seu avô morre, Josuke assume a responsabilidade de proteger sua amada cidade dos malévolos usuários do Stand. Josuke empunha Crazy Diamond, um poderoso Stand com o poder de consertar quase tudo.
+                    ''')
+    with tab7:
+        st.image('giorno2.png')
+        st.markdown('''
+                    ## Giorno Giovanna (ジョルノ·ジョバァーナJoruno Jobāna) é o protagonista de Vento Aureo e o quinto JoJo da série JoJo's Bizarre Adventure.
+
+## Giorno é o filho ilegítimo de DIO, concebido com o corpo roubado de Jonathan Joestar. Ele é apresentado como Haruno Shiobana (汐華 初流乃). Ele fala de sua intenção de se juntar à poderosa gangue Passione e seu sonho de se tornar um "Gangstar".'''
+                    )
+    with tab8:
+        st.image('jolyne.png')
