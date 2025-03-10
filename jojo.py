@@ -36,3 +36,24 @@ with tab1:
                     )
     with tab8:
         st.image('jolyne.png')
+        st.markdown('''
+                    ## Jolyne Cujoh (空条 徐倫Kūjō Jorīn ) é a protagonista da Parte 6 e a sexta JoJo da série JoJo's Bizarre Adventure.
+
+## Jolyne é a única mulher " JoJo " até hoje, e filha de Jotaro Kujo. Inicialmente uma garota comum, Jolyne rapidamente desperta seu Stand baseado em cordas, Stone Free, durante seu tempo na prisão.
+                    ''')
+    with tab9:
+        st.image('johnny.png')
+        st.markdown('''
+                    ## Johnny Joestar (ジョニィ・ジョースター Joni Jōsutā ) , nascido Jonathan Joestar (ジョナサン・ジョースター Jonasan Jōsutā ) é o protagonista principal de Steel Ball Run e um personagem secundário em JoJolion. Ele é o sétimo JoJo da série JoJo's Bizarre Adventure.
+
+## Um ex -prodígio das corridas de cavalos que se tornou paraplégico, Johnny se junta à corrida SBR para descobrir o segredo por trás das Steel Balls de Gyro Zeppeli, pois são a única coisa capaz de restaurar suas pernas.
+                    ''')
+    with tab10:
+        st.image('gappy.png')
+        st.markdown('''
+                    ## Josuke Higashikata (東方 定助 Higashikata Jōsuke) é o protagonista principal de JoJolion, o oitavo JoJo da série JoJo's Bizarre Adventure .
+
+## Josuke é um jovem que sofre de amnésia retrógrada, sem nenhuma memória antes de ser descoberto por Yasuho Hirose perto das Paredes Oculares em Morioh Town. Ele se dedica a descobrir sua antiga identidade e aqueles originalmente associados a ele.
+
+## A identidade original de Josuke era a de Josefumi Kujo (空条 仗世文Kūjō Josefumi ) , e tornou-se seu eu atual após a fusão com o homem Yoshikage Kira (吉良 吉影Kira Yoshikage ) . Josuke é um Stand User e mantém sua identidade original Soft & Wet , embora com pequenas mudanças influenciadas por sua outra metade.
+                    ''')
