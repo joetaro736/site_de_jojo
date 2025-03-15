@@ -1,5 +1,4 @@
 import streamlit as st
-import pygame
 st.title('JOJO')
 st.image('joojo.png')
 st.title('Biografia básica de cada protagonista/vilão ')
