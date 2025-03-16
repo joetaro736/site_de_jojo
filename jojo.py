@@ -58,7 +58,7 @@ with tab1:
 ## A identidade original de Josuke era a de Josefumi Kujo (空条 仗世文Kūjō Josefumi ) , e tornou-se seu eu atual após a fusão com o homem Yoshikage Kira (吉良 吉影Kira Yoshikage ) . Josuke é um Stand User e mantém sua identidade original Soft & Wet , embora com pequenas mudanças influenciadas por sua outra metade.
                     ''')
         with tab2:
-            tab12, tab13, tab14, tab15, tab16, tab17, tab18 = st.tabs(['dio', 'kars', 'kira', 'diavolo', 'dio da parte 1', 'dio da parte 1', 'dio da parte 1'])
+            tab12, tab13, tab14, tab15, tab16, tab17, tab18 = st.tabs(['dio', 'kars', 'kira', 'diavolo', 'pucci', 'funny valentine', 'tooru'])
             with tab12:
                 st.image('dio2.png')
                 st.markdown('''
@@ -79,3 +79,27 @@ with tab1:
                 ## Meu nome é Yoshikage Kira. Tenho 33 anos. Minha casa fica na parte nordeste de Morioh, onde todas as casas estão, e eu não sou casado. Eu trabalho como funcionário das lojas de departamentos Kame Yu e chego em casa todos os dias às oito da noite, no máximo. Eu não fumo, mas ocasionalmente bebo. Estou na cama às 23 horas e me certifico de ter oito horas de sono, não importa o que aconteça. Depois de tomar um copo de leite morno e fazer cerca de vinte minutos de alongamentos antes de ir para a cama, geralmente não tenho problemas para dormir até de manhã. Assim como um bebê, eu acordo sem nenhum cansaço ou estresse pela manhã. Foi-me dito que não houve problemas no meu último check-up. Estou tentando explicar que sou uma pessoa que deseja viver uma vida muito tranquila. Eu cuido para não me incomodar com inimigos, como ganhar e perder, isso me faria perder o sono à noite. É assim que eu lido com a sociedade e sei que é isso que me traz felicidade. Embora, se eu fosse lutar, não perderia para ninguém.''')
             with tab15:
                 st.image('diavolo.png')
+                st.markdown('''
+                ## Diavolo (ディアボロ Diaboro) é o principal antagonista apresentado em Vento Aureo.
+
+## O primeiro chefe da Passione, Diavolo busca segurança e superioridade absolutas ao eliminar todos os vestígios de seu passado, incluindo sua filha, Trish Una , e tenta recuperá-la manipulando o Time Bucciarati por meio de suas ordens. Ele e Vinegar Doppio são duas almas que habitam um único corpo, e enquanto Doppio pode manifestar apenas parcialmente o incrivelmente mortal King Crimson , Diavolo é o principal usuário do Stand e exerce seu poder brutal por completo.''')
+            with tab16:
+                st.image('pucci.png')
+                st.markdown('''
+## Enrico Pucci (エンリコ・プッチ Enriko Pucchi) é o principal antagonista de JoJo's Bizarre Adventure: Stone Ocean.
+
+## Um seguidor leal e amigo de DIO, ele implementa um plano há muito formulado por DIO para "alcançar o céu". Pucci é um Stand User e manipula a mente e a alma através de seu Stand, Whitesnake''')
+            with tab17:
+                st.image('valentine.png')
+                st.markdown('''
+                ## Funny Valentine (ファニー・ヴァレンタインFanī Varentain) é o principal antagonista de Steel Ball Run.
+
+## Funny Valentine é o 23º presidente dos Estados Unidos e o verdadeiro mentor da corrida Steel Ball Run. Ele observa a competição por trás das cortinas e espera reunir o cadáver do santo para usar a relíquia sagrada para promover os interesses dos Estados Unidos da América.
+
+## Valentine é um usuário do Stand , empunhando seus Dirty Deeds Done Dirt Cheap e suas habilidades dimensionais para viajar por universos paralelos.''')
+            with tab18:
+                st.image('tooru.png')
+                st.markdown('''
+                ## Toru (とおる (透龍) Tōru) é o principal antagonista de JoJolion. Ele é o cérebro por trás da Organização Locacaca e o médico chefe do Hospital Universitário TG, sobre o disfarce de seu Stand como Satoru Akefu. Ao lado de seu Stand, ele se disfarça de trabalhador de meio período no hospital.
+
+## Ele eventualmente é revelado como um Rock Human e um usuário do Stand, empunhando o Wonder Of U causador de calamidade.''')
